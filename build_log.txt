@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 'rebuild' is not recognized as an internal or external command,
 operable program or batch file.
+=======
+'rebuild' is not recognized as an internal or external command,
+operable program or batch file.
+>>>>>>> cb8354e28d6280251ff7f6c9c70070ee8dbd4ab9
